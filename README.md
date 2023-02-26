@@ -1,1 +1,1 @@
-<span style="font-size:20px; color:#00A8FF;">Yoo Java Codes from Classes</span>
+<p style="font-size:20px; color:#0000FF; font-weight:bold;">Yoo Java Codes from Classes</p>
